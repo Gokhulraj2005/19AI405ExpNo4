@@ -1,6 +1,6 @@
 <h1>ExpNo 4 : Implement A* search algorithm for a Graph</h1> 
-<h3>Name:AKASH M</h3>
-<h3>Register Number:212223240003</h3>
+<h3>Name:GOKHULRAJ V</h3>
+<h3>Register Number:212223230064</h3>
 
 ## Aim :
 
